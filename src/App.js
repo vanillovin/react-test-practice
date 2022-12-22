@@ -19,6 +19,9 @@ function App() {
             +
           </button>
         </div>
+        <button data-testid="onAndOff-button" style={{ backgroundColor: 'royalblue' }}>
+          on/off
+        </button>
       </header>
     </div>
   );
